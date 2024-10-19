@@ -1,0 +1,1 @@
+I am working on a simple port scanner project. I have already added functions to scan multiple, a range, and even a single port. As I progress, I will slowly explore and incorporate additional features, such as multithreading, to make the scanner faster. 
